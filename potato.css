@@ -77,7 +77,13 @@ h1 {
 
 
 /* Insert CSS for cane below this line*/
-
+#cane {
+  height:200px;
+  width:90px;
+  right:255px;
+  top: 225px; 
+ 
+}
 
 
 
